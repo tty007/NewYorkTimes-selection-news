@@ -1,0 +1,3 @@
+Vue.jsでNewYorkTimesのAPIを利用してトップニュースを取得して表示する簡易なWebアプリケーションです。
+
+デザインはCSSフレームワークのFoundationをCDNで利用しています。
